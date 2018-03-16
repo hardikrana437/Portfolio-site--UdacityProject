@@ -1,0 +1,8 @@
+Need and Purpose In present times, all major economic transactions have started taking place digitally. The major trends of modern digital transactions is substantiated by use of database management. These databases can be accessed by anyone with specific rights, and perform certain actions on it. The data update is done almost automatically and is much faster. On employee-side the data is much more organized, and accessing and performing actions on user accounts is easier for them. Due to this the bank has better work efficiency and customer experience improves as well. 
+
+Hardware 
+BankMan requires an entry-level PC for smaller number of bank accounts (like, when data is being stored locally). For larger no. of bank accounts, a server class machine is recommended. Software 
+The BankMan server can run on any recent version of Linux, such as Ubuntu, Debian, Fedora Core, Redhat Enterprise, etc.
+ It requires: 
+1. Apache  or later 
+2. Tomcat 5.6 or later 
